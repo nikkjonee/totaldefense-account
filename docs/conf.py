@@ -10,8 +10,8 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 
-html_favicon = '_static/download.png'
+html_favicon = '_static/totaldefense.png'
 
 html_js_files = [
-    'chatbot.js',
+    'livechat.js',
 ]
