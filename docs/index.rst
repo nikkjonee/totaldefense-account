@@ -11,7 +11,7 @@ How to Create a Total Defense Account?: A Complete Guide
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://getchatsupport.live/
 _____
 
 
